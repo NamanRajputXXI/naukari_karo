@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "naukri_karo",
+    "slug": "naukri_karo"
+  }
+}
