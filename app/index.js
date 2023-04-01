@@ -1,4 +1,5 @@
-import { View, Text } from "react-native";
+import { useState } from "react";
+import { View, Text, ScrollView, SafeAreaView } from "react-native";
 const Home = () => {
   return (
     <View>
